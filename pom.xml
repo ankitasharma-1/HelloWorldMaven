@@ -4,6 +4,9 @@
 
   <groupId>com.test</groupId>
   <artifactId>HelloWorldMaven</artifactId>
+  
+  #here <version>1.0.9-SNAPSHOT</version> if we change SNAPSHOT to VERSION then it will deploy the artifacts in maven-snapshots server in NEXUS
+  
   <version>1.0.9-SNAPSHOT</version>
   <packaging>jar</packaging>
 
